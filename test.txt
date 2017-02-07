@@ -1,3 +1,7 @@
-This is a git test file!
+STRING : This is a git test file!
 
-中文测试
+CHINESE : 中文测试
+
+NUMBER : 1234567890
+
+SIGN : ~!@#$%^&*()_+{}|:"<>?[]\;',./
