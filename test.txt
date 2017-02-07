@@ -5,3 +5,5 @@ CHINESE : жпнд╡Бйт
 NUMBER : 1234567890
 
 SIGN : ~!@#$%^&*()_+{}|:"<>?[]\;',./
+
+Clone_add : I'm cloned file!
