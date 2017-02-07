@@ -1,6 +1,6 @@
-STRING : This is a git test file!
+ï»¿STRING : This is a git test file!
 
-CHINESE : ÖÐÎÄ²âÊÔ
+CHINESE : ä¸­æ–‡æµ‹è¯•
 
 NUMBER : 1234567890
 
@@ -9,4 +9,3 @@ SIGN : ~!@#$%^&*()_+{}|:"<>?[]\;',./
 Raw_add : I'm raw file! hahah!
 
 Clone_add : I'm cloned file!
-
