@@ -7,3 +7,6 @@ NUMBER : 1234567890
 SIGN : ~!@#$%^&*()_+{}|:"<>?[]\;',./
 
 Raw_add : I'm raw file! hahah!
+
+Clone_add : I'm cloned file!
+
